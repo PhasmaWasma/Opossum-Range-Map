@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 
 .gpkg
+.zip
+.png
+Opossum_Shapes/
+Figs/
